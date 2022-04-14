@@ -28,7 +28,7 @@ module.exports = {
     LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'default' : process.env.ALIVE_LOGO,
-    CONTACT LINK: process.env.GROUP_LINK === undefined ? 'http://wa.me/94789864930' : process.env.CONTACT_LINK,
+    CONTACT_LINK: process.env.CONTACT_LINK === undefined ? 'http://wa.me/94789864930' : process.env.CONTACT_LINK,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
