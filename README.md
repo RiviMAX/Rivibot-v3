@@ -1,15 +1,10 @@
-# cyberbot-v3
-Button update
-
-## Visit to Our Offcial Website [Cyber Bot Web](https://aqua-snake.github.io/cyberbot/)
-
 
 
 ### Simple Method
 
 [![Run on Repl.it](https://repl.it/badge/github/Aqua-Snake/cyberbot-v3)](https://replit.com/@aquasnake/CBot-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aqua-Snake/cyberbot-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RiviMAX/Rivibot-v3/cyberbot-v3)
 
 
 ### ⚠️ Warning! 
