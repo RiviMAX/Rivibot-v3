@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /cyberbot/Dockerfile
+      worker: /rivibot/Dockerfile
 run:
    worker: npm start
