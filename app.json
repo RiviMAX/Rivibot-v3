@@ -184,7 +184,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n හායි...🌝\nකොහොමද ඉතිම්...✨\Nමොකද වෙන්නේ..😇"
+            "value": "\n හායි...🌝\nකොහොමද ඉතිම්...✨\nමොකද වෙන්නේ..😇"
         },
         "ALIVE_LOGO" : {
             "description": "Customizable Alive Logo! Use => default, you can it back",
