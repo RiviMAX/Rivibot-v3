@@ -51,7 +51,7 @@
             "required": true,
             "value": "false"
         },
-        "GROUP_LINK": {
+        "CONTACT_LINK": {
             "description": "Contact Developer WhatsApp.",
             "required": false,
             "value": "http://wa.me/94789864930"
