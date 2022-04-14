@@ -146,7 +146,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏CyberBot⤎╾━━━•"
+            "value": "•━━━━╼⤏RIVI BOT⤎╾━━━•"
         },
         "BOT_BUG": {
             "description": "Bot bug virus command add",
