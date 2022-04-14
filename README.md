@@ -2,7 +2,7 @@
 
 ### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/Aqua-Snake/cyberbot-v3)](https://replit.com/@aquasnake/CBot-QR)
+[![Run on Repl.it](https://repl.it/badge/github/Aqua-Snake/cyberbot-v3)](https://replit.com/@RIVISHANSANDEE1/CBot-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RiviMAX/Rivibot-v3/cyberbot-v3)
 
