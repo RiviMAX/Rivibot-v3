@@ -175,7 +175,7 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "RIVISHAN SANDEEP"
         },
         "REMOVE_BG_API_KEY": {
             "description": "https://remove.bg",
@@ -184,7 +184,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.menu* ```for commands  {pp}```"
+            "value": "\n හායි...🌝\nකොහොමද ඉතිම්...✨\Nමොකද වෙන්නේ..😇"
         },
         "ALIVE_LOGO" : {
             "description": "Customizable Alive Logo! Use => default, you can it back",
