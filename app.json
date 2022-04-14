@@ -219,6 +219,7 @@
         "DEPLOPER": {
             "description": "enter your name here",
             "required": false
+            "value": "RIVISHAN SANDEEP"
         },
         "PROMOTE_MESSAGE": {
             "description": "Customizable Promote Message! Use => default, to change back.",
